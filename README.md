@@ -66,14 +66,28 @@ _图5: 双重加密示例（更多加密示例在文件的image文件夹里）
 _图5: 一重解密示例（更多解密示例在文件的image文件夹里）
 
 ![Screenshot2](https://github.com/1925482702/S-AES/blob/main/S-AES-RushB/image/crack.png)  
-_图5: 破解示例（更多破解示例在文件的image文件夹里）
+_图6: 破解示例（更多破解示例在文件的image文件夹里）
 
 ## 交叉测试
 
 ### A组同学
 
--   使用相同的密钥K加密明文P，得到密文C。
+-   使用我们组的SAES进行二进制加密
+![Screenshot2](https://github.com/1925482702/S-AES/blob/main/S-AES-RushB/image/crossTest_A.png)  
+_图7: 我们组加密结果
+
+-   使用我们组的SAES进行ASCII加密
+![Screenshot2](https://github.com/1925482702/S-AES/blob/main/S-AES-RushB/image/crossTest_AA.png)  
+_图7: 我们组加密结果
 
 ### B组同学
 
--   使用相同的密钥K解密密文C，得到明文P。
+-   使用另一组的SAES进行二进制加密
+![Screenshot2](https://github.com/1925482702/S-AES/blob/main/S-AES-RushB/image/crossTest_B.png)  
+_图7: 我们组加密结果
+
+-   使用我们组的SAES进行ASCII加密
+![Screenshot2](https://github.com/1925482702/S-AES/blob/main/S-AES-RushB/image/cossTest_BB.png)  
+_图7: 我们组加密结果
+
+可见，结果是一致的
