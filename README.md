@@ -60,13 +60,13 @@ _图3: 解密界面_
 _图4: 密钥破解界面_
 
 ![Screenshot2](https://github.com/1925482702/S-AES/blob/main/S-AES-RushB/image/encrypt2.png)  
-_图5: 加密示例（更多加密示例在文件的image文件夹里）
+_图5: 双重加密示例（更多加密示例在文件的image文件夹里）
 
-![Screenshot2](https://github.com/1925482702/S-AES/blob/main/S-AES-RushB/image/decrypt2.png)  
-_图5: 解密示例（更多解密示例在文件的image文件夹里）
+![Screenshot2](https://github.com/1925482702/S-AES/blob/main/S-AES-RushB/image/decrypt1.png)  
+_图5: 一重解密示例（更多解密示例在文件的image文件夹里）
 
-![Screenshot2](https://github.com/1925482702/S-AES/blob/main/S-AES-RushB/image/crack1.png)  
-_图5: 破解示例（更多加密示例在文件的image文件夹里）
+![Screenshot2](https://github.com/1925482702/S-AES/blob/main/S-AES-RushB/image/crack.png)  
+_图5: 破解示例（更多破解示例在文件的image文件夹里）
 
 ## 交叉测试
 
