@@ -83,11 +83,11 @@ _图7: 我们组加密结果
 ### B组同学
 
 -   使用另一组的SAES进行二进制加密
-![Screenshot2](https://github.com/1925482702/S-AES/blob/main/S-AES-RushB/image/crossTest_B.png)  
+![Screenshot2](https://github.com/1925482702/S-AES/blob/main/S-AES-RushB/image/cossTest_B.png)  
 _图7: 我们组加密结果
 
 -   使用我们组的SAES进行ASCII加密
-![Screenshot2](https://github.com/1925482702/S-AES/blob/main/S-AES-RushB/image/cossTest_BB.png)  
+![Screenshot2](https://github.com/1925482702/S-AES/blob/main/S-AES-RushB/image/crossTest_BB.png)  
 _图7: 我们组加密结果
 
 可见，结果是一致的
